@@ -1,0 +1,25 @@
+body {
+background-color: khaki;  
+color: blueviolet;  
+}
+
+h1 {
+text-align: center;    
+}
+
+h2 {
+    text-align: center;    
+    }
+
+li {
+    color: #000;
+   text-decoration: none;
+    }
+
+img {
+    width: 50% ;
+    border-radius: 15px;
+    display: block;
+   margin: 10px auto;
+    }
+
